@@ -1,0 +1,6 @@
+
+numpy == 1.18.5
+argparse
+opencv-python == 4.1.2.30
+Pillow >= 7.1.0
+streamlit == 0.62.1
